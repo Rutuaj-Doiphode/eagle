@@ -8,9 +8,10 @@ const port = process.env.PORT;
 // const User = require('./Model/userSchema');
 app.use(cookieParser());
 app.use(express.json());
+app.use(require("./routes/monitorRoute"));
 
 app.get("/", function (req, res) {
-  res.send("Hello Eagles");
+  res.send("Hello Eagles....");
 });
 
 app.listen(port, () => {

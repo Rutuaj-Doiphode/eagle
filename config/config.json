@@ -1,0 +1,61 @@
+{
+  "team_name": [
+    {
+      "urls_to_monitor": [
+        {
+          "name": "Gateway",
+          "url": "http://20.219.149.184:8090"
+        },
+        {
+          "name": "user-management-service",
+          "url": "http://20.219.149.184:8081"
+        },
+        {
+          "name": "questionnaire-management-service",
+          "url": "http://20.219.149.184:8082"
+        },
+        {
+          "name": "group-management-service",
+          "url": "http://20.219.149.184:8084"
+        },
+        {
+          "name": "care-plan-management-service",
+          "url": "http://20.219.149.184:8085"
+        },
+        {
+          "name": "data-lake-service",
+          "url": "http://20.219.149.184:8086"
+        },
+        {
+          "name": "knowledge-center-service",
+          "url": "http://20.219.149.184:8091"
+        },
+        {
+          "name": "feedback-service",
+          "url": "http://20.219.149.184:8092"
+        },
+        {
+          "name": "hcp-admin-service",
+          "url": "http://20.219.149.184:8093"
+        },
+        {
+          "name": "notification-service",
+          "url": "http://20.219.149.184:8094"
+        },
+        {
+          "name": "e-diary-service",
+          "url": "http://20.219.149.184:8095"
+        },
+        {
+          "name": "scheduler-service",
+          "url": "http://20.219.149.184:8096"
+        }
+      ],
+      "notification": [
+        "ruturaj.doiphode@capgemini.com",
+        "rupeshit-kalpesh.patekar@capgemini.com",
+        "dipayan.palit@capgemini.com"
+      ]
+    }
+  ]
+}
