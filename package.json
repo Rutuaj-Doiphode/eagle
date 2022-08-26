@@ -1,0 +1,24 @@
+{
+  "name": "eagle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutuaj-Doiphode/eagle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rutuaj-Doiphode/eagle/issues"
+  },
+  "homepage": "https://github.com/Rutuaj-Doiphode/eagle#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.0"
+  }
+}
